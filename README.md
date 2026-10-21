@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Guilherme&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6d28d9&height=240&section=header&text=Guilherme+Dias&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o&descSize=18&descAlignY=62&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Sempre+buscando+evoluir;Desenvolvimento+web+com+PHP+e+JavaScript;Aprendendo+na+pr%C3%A1tica,+um+projeto+por+vez" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=%3E+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+SQL;%3E+Transformando+ideias+em+c%C3%B3digo;%3E+Sempre+buscando+evoluir" />
 </div>
 
 ## Olá, como posso ajudar? 👋
