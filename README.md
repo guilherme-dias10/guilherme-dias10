@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,18&height=220&section=header&text=Guilherme%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=scaleIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Guilherme%20Dias&fontSize=50&fontColor=a78bfa&fontAlignY=50&stroke=6d28d9&strokeWidth=1" width="100%"/>
 ## Olá, como posso ajudar? 👋
 
 Olá, meu nome é Guilherme e sou estudante de Sistemas de Informação.
