@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=6d28d9&height=240&section=header&text=Guilherme+Dias&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o&descSize=18&descAlignY=62&animation=twinkling" width="100%"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=%3E+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+SQL;%3E+Transformando+ideias+em+c%C3%B3digo;%3E+Sempre+buscando+evoluir" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Guilherme%20Dias&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 ## Olá, como posso ajudar? 👋
 
