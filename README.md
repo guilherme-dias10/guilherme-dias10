@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=Guilherme%20Dias&fontSize=40&fontColor=a78bfa&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,18&height=220&section=header&text=Guilherme%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=scaleIn" width="100%"/>
 
 ## Olá, como posso ajudar? 👋
 
