@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=650&height=45&lines=%3E+Desenvolvedor+Full+Stack;%3E+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+SQL;%3E+Sempre+buscando+evoluir" />
-</div>
-## Olá, como posso ajudar? 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b07,100:0f5132&height=220&section=header&text=Guilherme%20Dias&fontSize=50&fontColor=34d399&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=18&descColor=ffffff&descAlignY=58&animation=fadeIn" width="100%"/>
+
+
+ Olá, como posso ajudar? 👋
 
 Olá, meu nome é Guilherme e sou estudante de Sistemas de Informação.
 Desenvolvo aplicações web utilizando HTML, CSS, JavaScript, PHP e SQL,
 e gosto de aprender na prática construindo projetos.
 
-## Sobre mim
+ Sobre mim
 
 🚀 Apaixonado por tecnologia e desenvolvimento
 🎓 Estudante de Sistemas de Informação
