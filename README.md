@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=7c3aed&height=200&section=header&text=Guilherme%20Dias&fontSize=46&fontColor=ffffff&fontAlignY=45" width="100%"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=650&height=45&lines=%3E+Desenvolvedor+Full+Stack;%3E+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+SQL;%3E+Sempre+buscando+evoluir" />
+</div>
 ## Olá, como posso ajudar? 👋
 
 Olá, meu nome é Guilherme e sou estudante de Sistemas de Informação.
